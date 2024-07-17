@@ -1,0 +1,40 @@
+h1{
+    font-family:"press start 2P";
+    color:burlywood;
+    font-size:50px;
+    border-top-style:double;
+    border-bottom-style:double;
+    border-left-style:dotted;
+    border-right-style:dotted;
+    border-radius:100px;
+    padding:10px;
+}
+p{
+    font-family: "consolas", sans-serif;
+    color:brown;
+    font-size:30px;
+    border-style:outset;
+    border-width:1px;
+    border-color:black;
+    border-radius:10px;
+    padding:10px;
+}
+.center{
+    text-align:center;
+}
+#p1{
+    font-family:"Caveat";
+    background:linear-gradient(to top,lightblue,white)
+}
+#p2{
+    font-family:"press start 2P";
+}
+body{
+    background-image:url(guzgan.png);
+    background-repeat: no-repeat;
+    background-position:center;
+    background-attachment:fixed;
+    background-size:cover;
+
+    margin:0px
+}
